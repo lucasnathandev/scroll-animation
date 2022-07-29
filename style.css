@@ -18,7 +18,7 @@ body {
 }
 
 .box-container {
-  display: flex
+  display: flex;
   row-gap: 1rem;
 }
 
