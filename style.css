@@ -17,6 +17,11 @@ body {
   scroll-behavior: smooth;
 }
 
+.box-container {
+  display: flex
+  row-gap: 1rem;
+}
+
 h1 {
   margin: 10px;
   margin-bottom: 50px;
